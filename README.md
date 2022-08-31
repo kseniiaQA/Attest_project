@@ -1,5 +1,5 @@
 ## To start docker container with tests copy a directory: 
-### https://github.com/kseniiaQA/Attest_project.git
+### https://github.com/kseniiaQA/attest_project.git
 
 
 
