@@ -12,7 +12,7 @@
 
 
 ## Then we execute an image for container 
-#### docker run -it -v $(pwd):/Attest_project -w /Attest_project cypress/included:10.3.1 --spec cypress/e2e/spec.cy.js --browser chrome
+#### docker run -it -v $(pwd):/attest_project -w /attest_project cypress/included:10.3.1 --spec cypress/e2e/spec.cy.js --browser chrome
 
   
 
