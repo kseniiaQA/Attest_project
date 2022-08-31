@@ -3,7 +3,7 @@
 
 
 
-## Then go to a directory (cd/.../Attest_project) and run a command to upload a docker container for cypress test run:
+## Then go to a directory (cd/.../attest_project) and run a command to upload a docker container for cypress test run:
 #### docker pull cypress/included:10.3.1
 
 
